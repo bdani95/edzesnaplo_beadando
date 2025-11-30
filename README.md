@@ -1,6 +1,6 @@
 Hallgató: Balogh Dániel (BD) QN3RRK
 Tantárgy: Szkript nyelvek
-Beadandó: Edzéskövető alkalmazás
+Beadandó: Edzésnapló alkalmazás
 
 Leírás:
 Ez egy edzésnapló alkalmazás, amely lehetővé teszi a felhasználónak, hogy rögzítse a különböző gyakorlatok adatait (dátum, gyakorlat, ismétlés, súly).
